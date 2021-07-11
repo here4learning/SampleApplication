@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Profile Application</string>
+
+    <string name="header_edit_profile">Edit Profile</string>
+    <string name="header_view_profile">View Profile</string>
+    <string name="lbl_dob">Date Of Birth</string>
+    <string name="lbl_button_next">Next</string>
+    <string name="hint_first_name">Enter your First Name</string>
+    <string name="hint_last_name">Enter your Last Name</string>
+    <string name="hint_dob">Tap to Select Date of Birth</string>
+    <string name="label_first_name">First Name:&#160;</string>
+    <string name="label_last_name">Last Name:&#160;</string>
+    <string name="label_age">Age:&#160;</string>
+    <string name="msg_err_first_name_missing">Please enter your First Name</string>
+    <string name="msg_err_last_name_missing">Please enter your Last Name</string>
+    <string name="msg_err_dob_missing">Please select your date of birth</string>
+
+</resources>
